@@ -143,7 +143,7 @@ Without zero → no computers today
 ### **Real Numbers (R)**
   → Rational + Irrational
 
-## 2. Number Line Thinking 🧠
+## 2. Number Line Thinking 
 
 * Every number has a position
 * Left → Negative
@@ -176,17 +176,19 @@ Patterns:
 
 ---
 
-## 5. Prime & Composite
+## 5. Prime, Composite & Co-prime
 
 * **Prime** → only 2 factors (1 & itself)
+  ✔ Example: 2, 3, 5, 7
 
-* Example: 2, 3, 5, 7
+* **Composite** → more than 2 factors
+  ✔ Example: 4, 6, 8
 
-* **Composite** → more factors
-
-* Example: 4, 6, 8
+* **Co-prime** → two numbers with HCF = 1
+  ✔ Example: (8, 15), (9, 10)
 
 👉 1 is neither prime nor composite
+
 
 ---
 
